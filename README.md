@@ -1,2 +1,3 @@
 # arko-demo
-This is my  first repoditories
+This is my  first repositories
+Author: Arko Kor
